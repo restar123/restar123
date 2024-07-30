@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @restar123
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning internet programming
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me it's through github
 
